@@ -20,6 +20,8 @@ This is a robust teacher portal developed with PHP, HTML, and JavaScript.
 ## Usage
 
 - Navigate to `login.php` to log in.
+- username: teacher
+- password: teacher
 - After logging in, you will be redirected to the home screen.
 - Use the interface to manage student records.
 
